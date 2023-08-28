@@ -5,7 +5,7 @@ const App = () => {
     <>
       <div className="flex items-center h-screen justify-center">
         <h1 className="text-4xl font-bold text-blue-600">
-          Hello World!!!
+          Hello TailwindCSS!!!
         </h1>
       </div>
     </>
